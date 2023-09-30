@@ -1,3 +1,4 @@
 # Welcome to Fan's Blog
 > Fan's tech blog. Always learning new things, always day 1.
-## JavaScript Series
+
+Visit [my blog](blog.fanyang.io).
