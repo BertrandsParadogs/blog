@@ -1,2 +1,3 @@
-# blog
-Fan's tech blog. Always learning new things, always day 1.
+# Welcome to Fan's Blog
+> Fan's tech blog. Always learning new things, always day 1.
+## JavaScript Series
